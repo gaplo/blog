@@ -1,15 +1,9 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hands-on Java developer with 10+ years’ experience in application development including financial software development. I work for various organizations in different fields including Education, Software Vendor, Telco and Financial Institution. Now I am a front office developer, responsible for a client-facing fund trading platform.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Download my <a href="{{site.baseurl}}/assets/Gary_Ip_CV.pdf">CV</a> ;)
