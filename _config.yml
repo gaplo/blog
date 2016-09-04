@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Seeking "Good Road"
 email: gary.sk.ip@bcs.org
+timezone: Asia/Hong_Kong
 description: >
   Write something and collect something that help myself
   to seek for "Good Road"
