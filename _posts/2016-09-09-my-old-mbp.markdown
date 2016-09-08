@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "My Old MacBook Pro"
+date:   2016-09-09 00:36:04 +0800
+categories: general
+tags: general MacBook\ Pro Apple macOS\ Sierra
+---
+My MackBook Pro is not in list... ;(
+
+macOS Sierra
+
+![About My Mac]({{site.baseurl}}/assets/2016-09-09/old-mbp.png)
