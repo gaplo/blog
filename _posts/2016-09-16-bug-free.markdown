@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bug Free?"
+date:   2016-09-16 19:05:15 +0800
+categories: general
+tags: development
+---
+It's not the first time I hear the objective during the appraisal - "Make sure the project is BUG FREE". "No software is bug-free", which is what I learnt when I was in university.
+
+[Good Programmers Write Bug-Free Code, Don't They?](http://www.yegor256.com/2015/06/18/good-programmers-bug-free.html)
+
+[Bug-free Code? That's a Lie!](https://dzone.com/articles/bug-free-code-thats-a-lie)
+
+Rather than telling lies, I simply keep silent :p
