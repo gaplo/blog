@@ -10,13 +10,13 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
-    execjs (2.10.0)
-    ffi (1.17.2)
+    execjs (2.10.1)
+    ffi (1.17.4)
     forwardable-extended (2.6.0)
-    http_parser.rb (0.8.0)
+    http_parser.rb (0.8.1)
     i18n (0.9.5)
       concurrent-ruby (~> 1.0)
-    itextomml (1.6.1)
+    itextomml (1.6.2)
     jekyll (3.9.0)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -34,14 +34,14 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.8.0)
+    jekyll-seo-tag (2.9.0)
       jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
-    katex (0.10.0)
+    katex (0.11.0)
       execjs (~> 2.8)
-    kramdown (2.5.1)
-      rexml (>= 3.3.9)
+    kramdown (2.5.2)
+      rexml (>= 3.4.4)
     kramdown-math-itex2mml (1.0.0)
       itextomml (~> 1.5)
       kramdown (~> 2.0)
@@ -62,17 +62,19 @@ GEM
       coderay (~> 1.1)
       kramdown (~> 2.0)
     liquid (4.0.4)
-    listen (3.9.0)
+    listen (3.10.0)
+      logger
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.3.6)
-    minima (2.5.1)
+    minima (2.5.2)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (5.1.1)
+    public_suffix (7.0.5)
     rb-fsevent (0.11.2)
     rb-inotify (0.11.1)
       ffi (~> 1.0)
@@ -104,7 +106,7 @@ DEPENDENCIES
   minima
 
 RUBY VERSION
-   ruby 2.6.10p210
+   ruby 3.3.11p205
 
 BUNDLED WITH
-   1.17.2
+   2.5.22
